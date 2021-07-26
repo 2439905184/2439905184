@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about Game,Godot.
 - 📫 How to reach me: bilibili,github,gitee
 - ⚡ Fun fact: 666
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?2439905184)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api2439905184)](https://github.com/anuraghazra/github-readme-stats)
