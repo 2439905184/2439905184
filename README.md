@@ -11,6 +11,10 @@ Here are some ideas to get you started:
 - 💬 Ask me about Game,Godot.
 - 📫 How to reach me: bilibili,github,gitee
 - ⚡ Fun fact: 666
+### listen to music made by me
++ [猫耳fm](https://www.missevan.com/11010966/#)
++ [soundCloud](https://soundcloud.com/cl-s-906255544)
+
 ### state
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2439905184)](https://github.com/anuraghazra/github-readme-stats)
 ### language
