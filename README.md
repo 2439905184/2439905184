@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with GUI,Game,make money
 - 💬 Ask me about Game,Godot.
 - 📫 How to reach me: bilibili,github,gitee
-- ⚡ Fun fact: 666
+- ⚡ Fun fact: 二次元技术宅 INFP
 - 工作室官网:https://2439905184.github.io/littlesandbox2/
 ### listen to music made by me
 + [猫耳fm](https://www.missevan.com/11010966/#)
