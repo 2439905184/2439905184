@@ -5,11 +5,11 @@
 
 Here are some ideas to get you started:
 -->
-<!-- 🔭 I’m currently working on ... -->
+<!-- 🔭 I’m currently working on 小沙盒工作室 at home -->
 - 🌱 I’m currently learning Godot, GUI, Web, C/C++, D-language, V-language, nim
-- 🤔 I’m looking for help with GUI,Game,make money
-- 💬 Ask me about Game,Godot.
-- 📫 How to reach me: bilibili,github,gitee
+- 🤔 I’m looking for help with GUI program, Game develop , make money
+- 💬 Ask me about Game, Godot , electro music, 小沙盒工作室
+- 📫 How to reach me: [bilibili](https://space.bilibili.com/26680057?spm_id_from=333.1007.0.0),[gitee](https://gitee.com/h128)
 - ⚡ Fun fact: 二次元技术宅 INFP
 - 工作室官网:https://2439905184.github.io/littlesandbox2/
 ### listen to music made by me
