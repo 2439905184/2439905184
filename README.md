@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 <!-- 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning Godot,GUI,Web,C,D-language,V-language
+- 🌱 I’m currently learning Godot, GUI, Web, C/C++, D-language, V-language, nim
 - 🤔 I’m looking for help with GUI,Game,make money
 - 💬 Ask me about Game,Godot.
 - 📫 How to reach me: bilibili,github,gitee
