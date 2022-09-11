@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 ![D](https://img.shields.io/badge/D-007ACC?style=flat-square&logo=D&logoColor=ffffff)
 ![Zig](https://img.shields.io/badge/Zig-007ACC?style=flat-square&logo=Zig&logoColor=ffffff)
 ![V](https://img.shields.io/badge/V-007ACC?style=flat-square&logo=V&logoColor=ffffff)
+![MySql](https://img.shields.io/badge/MySql-007ACC?style=flat-square&logo=MySql&logoColor=ffffff)
+![Php](https://img.shields.io/badge/Php-007ACC?style=flat-square&logo=Php&logoColor=ffffff)
 
 #### Interested
  - blender
