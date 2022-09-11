@@ -18,10 +18,12 @@ Here are some ideas to get you started:
 
 ### state
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2439905184)](https://github.com/anuraghazra/github-readme-stats)
-### language
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2439905184)](https://github.com/anuraghazra/github-readme-stats)
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" /></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="visual-studio-code" /></code>
+
+## languages
+
+![Nim](https://img.shields.io/badge/Typescript-007ACC?style=flat-square&logo=TypeScript&logoColor=ffffff)
+![C++](https://img.shields.io/badge/C%2b%2b-00599C?style=flat-square&logo=c%2b%2b&logoColor=ffffff)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=ffffff)
  #### Interested
  - blender
  - Godot
