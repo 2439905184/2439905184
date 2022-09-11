@@ -27,6 +27,9 @@ Here are some ideas to get you started:
 ![Java](https://img.shields.io/badge/Java-007ACC?style=flat-square&logo=Java&logoColor=ffffff)
 ![C](https://img.shields.io/badge/C-007ACC?style=flat-square&logo=C&logoColor=ffffff)
 ![C++](https://img.shields.io/badge/C++-007ACC?style=flat-square&logo=C++&logoColor=ffffff)
+![Lua](https://img.shields.io/badge/Lua-007ACC?style=flat-square&logo=Lua&logoColor=ffffff)
+![aardio](https://img.shields.io/badge/aardio-007ACC?style=flat-square&logo=aardio&logoColor=ffffff)
+
 
 #### Interested
  - blender
