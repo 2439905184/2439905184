@@ -44,6 +44,8 @@ Here are some ideas to get you started:
 ![ShotCut](https://img.shields.io/badge/ShotCut-007ACC?style=flat-square&logo=ShotCut&logoColor=ffffff)
 ![KdeNlive](https://img.shields.io/badge/KdeNlive-007ACC?style=flat-square&logo=KdeNlive&logoColor=ffffff)
 ![X64Dbg](https://img.shields.io/badge/X64Dbg-007ACC?style=flat-square&logo=X64Dbg&logoColor=ffffff)
+![Godot](https://img.shields.io/badge/Godot-007ACC?style=flat-square&logo=Godot&logoColor=ffffff)
+![Enve](https://img.shields.io/badge/Enve-007ACC?style=flat-square&logo=Enve&logoColor=ffffff)
 #### Interested
  - blender
  - Godot
