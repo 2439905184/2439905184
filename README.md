@@ -20,11 +20,8 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2439905184)](https://github.com/anuraghazra/github-readme-stats)
 
 ## languages
-
-![Nim](https://img.shields.io/badge/Typescript-007ACC?style=flat-square&logo=TypeScript&logoColor=ffffff)
-![C++](https://img.shields.io/badge/C%2b%2b-00599C?style=flat-square&logo=c%2b%2b&logoColor=ffffff)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=ffffff)
- #### Interested
+![nim](https://img.shields.io/badge/Nim-007ACC?style=flat-square&logo=Nim&logoColor=ffffff)
+#### Interested
  - blender
  - Godot
  - OpenGL
