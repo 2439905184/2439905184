@@ -20,7 +20,14 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2439905184)](https://github.com/anuraghazra/github-readme-stats)
 
 ## languages
-![nim](https://img.shields.io/badge/Nim-007ACC?style=flat-square&logo=Nim&logoColor=ffffff)
+![Nim](https://img.shields.io/badge/Nim-007ACC?style=flat-square&logo=Nim&logoColor=ffffff)
+![Gdscript](https://img.shields.io/badge/Gdscript-007ACC?style=flat-square&logo=gdscript&logoColor=ffffff)
+![Python](https://img.shields.io/badge/Python-007ACC?style=flat-square&logo=Python&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/JavaScript-007ACC?style=flat-square&logo=JavaScript&logoColor=ffffff)
+![Java](https://img.shields.io/badge/Java-007ACC?style=flat-square&logo=Java&logoColor=ffffff)
+![C](https://img.shields.io/badge/C-007ACC?style=flat-square&logo=C&logoColor=ffffff)
+![C++](https://img.shields.io/badge/C++-007ACC?style=flat-square&logo=C++&logoColor=ffffff)
+
 #### Interested
  - blender
  - Godot
