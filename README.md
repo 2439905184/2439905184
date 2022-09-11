@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 ![MySql](https://img.shields.io/badge/MySql-007ACC?style=flat-square&logo=MySql&logoColor=ffffff)
 ![Php](https://img.shields.io/badge/Php-007ACC?style=flat-square&logo=Php&logoColor=ffffff)
 
-## SoftWare
+## Software
 ![FL-studio](https://img.shields.io/badge/FL-studio-007ACC?style=flat-square&logo=FL-studio&logoColor=ffffff)
 ![Lmms](https://img.shields.io/badge/Lmms-007ACC?style=flat-square&logo=Lmms&logoColor=ffffff)
 ![Audacity](https://img.shields.io/badge/Audacity-007ACC?style=flat-square&logo=Audacity&logoColor=ffffff)
