@@ -46,6 +46,11 @@ Here are some ideas to get you started:
 ![X64Dbg](https://img.shields.io/badge/X64Dbg-007ACC?style=flat-square&logo=X64Dbg&logoColor=ffffff)
 ![Godot](https://img.shields.io/badge/Godot-007ACC?style=flat-square&logo=Godot&logoColor=ffffff)
 ![Enve](https://img.shields.io/badge/Enve-007ACC?style=flat-square&logo=Enve&logoColor=ffffff)
+## System
+![Deepin 20.04 LTS](https://img.shields.io/badge/Deepin-20.04%20LTS-E95420?style=flat-square&logo=Deepin&logoColor=ffffff)
+![Veket 20.04 LTS](https://img.shields.io/badge/Veket-20.04%20LTS-E95420?style=flat-square&logo=Linux&logoColor=ffffff)
+![Windows 10](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)
+![Android](https://img.shields.io/badge/Android-8-2376bc?style=flat-square&logo=Android&logoColor=ffffff)
 #### Interested
  - blender
  - Godot
