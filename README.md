@@ -29,7 +29,9 @@ Here are some ideas to get you started:
 ![C++](https://img.shields.io/badge/C++-007ACC?style=flat-square&logo=C++&logoColor=ffffff)
 ![Lua](https://img.shields.io/badge/Lua-007ACC?style=flat-square&logo=Lua&logoColor=ffffff)
 ![aardio](https://img.shields.io/badge/aardio-007ACC?style=flat-square&logo=aardio&logoColor=ffffff)
-
+![D](https://img.shields.io/badge/D-007ACC?style=flat-square&logo=D&logoColor=ffffff)
+![Zig](https://img.shields.io/badge/Zig-007ACC?style=flat-square&logo=Zig&logoColor=ffffff)
+![V](https://img.shields.io/badge/V-007ACC?style=flat-square&logo=V&logoColor=ffffff)
 
 #### Interested
  - blender
