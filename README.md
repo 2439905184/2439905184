@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [bilibili](https://space.bilibili.com/26680057?spm_id_from=333.1007.0.0), [gitee](https://gitee.com/h128), [gitcode](https://gitcode.net/weixin_43539313), [新浪微博](https://weibo.com/u/7489481786)
 - ⚡ Fun fact: 二次元技术宅 INFP
 - 工作室官网:https://2439905184.github.io/littlesandbox2/
+- 我是一个来自中国的技校生，接受中等或者高等职业教育。我喜欢编程，中文编程，游戏开发，音乐制作，3D CG，动画制作等多种多媒体技术
 ### listen to music made by me
 + [猫耳fm](https://www.missevan.com/11010966/#)
 + [soundCloud](https://soundcloud.com/cl-s-906255544)
